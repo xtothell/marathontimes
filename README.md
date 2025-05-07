@@ -1,0 +1,2 @@
+Dataset from Brian Rock was downloaded February 2025 from https://www.kaggle.com/datasets/runningwithrock/2023-marathon-results?select=Results.csv
+Dataset Creative Commons license Attribution 4.0 International
